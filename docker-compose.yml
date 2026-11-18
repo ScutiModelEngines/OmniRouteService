@@ -1,0 +1,11 @@
+services:
+  omniroute:
+    image: diegosouzapw/omniroute:${SERVICE_VERSION:-latest}
+    container_name: omniroute
+    restart: unless-stopped
+    stop_grace_period: 40s
+    env_file: .env
+    ports:
+      - "${SERVICE_PORT:-29651}:20128"
+    volumes:
+      - ./data:/app/data

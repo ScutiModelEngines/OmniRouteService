@@ -1,0 +1,48 @@
+AI Horde:
+horde/google/gemma-4-31b
+
+OpenRouter:
+openrouter/recursive/flint-v1.0:free (flint-v1.0:free)
+openrouter/xingchen-agi/xing4.0-29b-a4b:free (xing4.0-29b-a4b:free)
+openrouter/nvidia/nemotron-3.5-super-vl:free (nemotron-3.5-super-vl:free)
+openrouter/dots-studio/dots-3-note-preview:free (dots-3-note-preview:free)
+openrouter/nvidia/nemotron-3.5-lightning:free (nemotron-3.5-lightning:free)
+openrouter/poolside/laguna-s-2.1:free (laguna-s-2.1:free)
+openrouter/cohere/north-mini-code:free (north-mini-code:free)
+openrouter/nvidia/nemotron-3.5-content-safety:free (nemotron-3.5-content-safety:free)
+openrouter/nvidia/nemotron-3-ultra-550b-a55b:free (nemotron-3-ultra-550b-a55b:free)
+openrouter/openrouter/free (free)
+
+NVidia NIM:
+nvidia/meta/llama-guard-4-12b
+nvidia/meta/muse-glimmer-30b
+nvidia/minimaxai/minimax-m3.1-flash
+nvidia/nvidia/ising-calibration-1.5-31b
+nvidia/nvidia/llama-3.1-nemotron-safety-guard-8b-v3
+nvidia/nvidia/nemotron-3-ultra-550b-a55b
+nvidia/nvidia/nemotron-3.5-bolt-e4b
+nvidia/nvidia/nemotron-3.5-content-safety
+nvidia/nvidia/nemotron-3.5-lightning-30b-a3b
+nvidia/nvidia/nemotron-3.5-super-vl-120b-a12b
+nvidia/nvidia/nemotron-parse-2.0
+nvidia/nvidia/riva-translate-4b-instruct-v2
+nvidia/openai/gpt-oss-20b
+
+Gemini (Google AI Studio):
+gemini/gemma-4-26b-a4b-it
+gemini/gemini-flash-lite-latest
+gemini/gemini-3-flash-preview
+gemini/gemini-3.1-flash-lite-preview
+gemini/gemini-3.1-flash-lite
+gemini/gemini-3.5-flash-lite
+gemini/gemini-3.6-flash
+gemini/gemini-robotics-er-2-preview
+gemini/gemini-embedding-001
+gemini/gemini-embedding-2-preview
+gemini/gemini-embedding-2
+
+Groq:
+groq/allam-2-7b
+groq/openai/gpt-oss-120b
+groq/openai/gpt-oss-20b
+groq/openai/gpt-oss-safeguard-20b
